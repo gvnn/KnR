@@ -1,3 +1,4 @@
+/* section 1.2 */
 #include <stdio.h>
 
 /* print Fahrenheit-Celsius table

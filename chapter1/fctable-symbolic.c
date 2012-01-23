@@ -1,3 +1,4 @@
+/* section 1.4 */
 #include <stdio.h>
 
 #define LOWER   0       /* lower limit of table */
@@ -5,7 +6,8 @@
 #define STEP    20      /* step size */
 
 /* print Fahrenheit-Celsius table */
-main() {
+main() 
+{
     
     int fahr;
     
